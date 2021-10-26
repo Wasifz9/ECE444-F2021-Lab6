@@ -1,11 +1,9 @@
 import pytest
-import os
 from pathlib import Path
-import json 
-from project.app import app, db 
+import json
+from project.app import app, db
 
 TEST_DB = "test.db"
-
 
 
 @pytest.fixture
@@ -33,6 +31,7 @@ def logout(client):
     """Logout helper function"""
     return client.get("/logout", follow_redirects=True)
 
+
 def test_delete_message(client):
     """Ensure the messages are being deleted"""
     rv = client.get("/delete/1")
@@ -42,6 +41,7 @@ def test_delete_message(client):
     rv = client.get("/delete/1")
     data = json.loads(rv.data)
     assert data["status"] == 1
+
 
 def test_index(client):
     response = client.get("/", content_type="html/text")
@@ -83,4 +83,3 @@ def test_messages(client):
     assert b"No entries here so far" not in rv.data
     assert b"&lt;Hello&gt;" in rv.data
     assert b"<strong>HTML</strong> allowed here" in rv.data
-
