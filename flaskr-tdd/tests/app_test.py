@@ -5,6 +5,7 @@ from project.app import app, db
 
 TEST_DB = "test.db"
 
+#testing
 
 @pytest.fixture
 def client():
