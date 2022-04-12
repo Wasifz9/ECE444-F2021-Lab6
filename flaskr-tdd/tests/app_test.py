@@ -5,6 +5,7 @@ from project.app import app, db
 
 TEST_DB = "test.db"
 
+#testing
 
 @pytest.fixture
 def client():
@@ -12,7 +13,7 @@ def client():
     app.config["TESTING"] = True
     app.config["DATABASE"] = BASE_DIR.joinpath(TEST_DB)
     app.config["SQLALCHEMY_DATABASE_URI"] = f"sqlite:///{BASE_DIR.joinpath(TEST_DB)}"
-    print("test")
+    print("test2")
     db.create_all()  # setup
     yield app.test_client()  # tests run here
     db.drop_all()  # teardown
