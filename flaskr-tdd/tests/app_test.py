@@ -4,6 +4,7 @@ import json
 from project.app import app, db
 
 TEST_DB = "test.db"
+#TESTING
 
 
 @pytest.fixture
