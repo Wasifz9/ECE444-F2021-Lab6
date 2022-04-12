@@ -5,7 +5,7 @@ from project.app import app, db
 
 TEST_DB = "test.db"
 
-
+#es
 @pytest.fixture
 def client():
     BASE_DIR = Path(__file__).resolve().parent.parent
