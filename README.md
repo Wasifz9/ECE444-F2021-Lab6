@@ -1,8 +1,8 @@
 # ECE Lab 6 
-### Wasif Zulkernine  - 1004069376
-### This repository is a clone of https://github.com/mjhea0/flaskr-tdd
+#### Wasif Zulkernine  - 1004069376
+#### This repository is a clone of https://github.com/mjhea0/flaskr-tdd
 
-#### Pros and Cons of TTD
+### Pros and Cons of TTD
 ##### Pros
 	* Can enforce good architecture when preparing for unit tests
 	* Tests document code
