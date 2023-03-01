@@ -1,0 +1,15 @@
+{
+	"drawioXML": "<mxfile>\n  <diagram id=\"1ucUJsMfS5J6PxH1XZ67\" name=\"Page-1\">\n    <mxGraphModel dx=\"1155\" dy=\"724\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"1\" arrows=\"1\" fold=\"1\" page=\"0\" pageScale=\"1\" pageWidth=\"850\" pageHeight=\"1100\" math=\"0\" shadow=\"0\">\n      <root>\n        <mxCell id=\"0\" />\n        <mxCell id=\"1\" parent=\"0\" />\n        <UserObject label=\"README.md\" value=\"README.md\" id=\"J1UXoaSFirTaQM-zAGju-1\">\n          <mxCell style=\"shadow=0;\" vertex=\"1\" parent=\"1\">\n            <mxGeometry x=\"96\" y=\"286\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n      </root>\n    </mxGraphModel>\n  </diagram>\n</mxfile>\n",
+	"fileName": "",
+	"fileURL": "",
+	"repoData": {
+		"README.md": {
+			"name": "README.md",
+			"path": "README.md",
+			"cellId": "J1UXoaSFirTaQM-zAGju-1"
+		}
+	},
+	"cellToPath": {
+		"J1UXoaSFirTaQM-zAGju-1": "README.md"
+	}
+}
