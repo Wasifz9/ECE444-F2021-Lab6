@@ -1,9 +1,0 @@
-{
-	"drawioXML": "<mxfile>\n  <diagram id=\"NBkDeqReXPTki7EGiPJ6\" name=\"Page-1\">\n    <mxGraphModel dx=\"1155\" dy=\"724\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"1\" arrows=\"1\" fold=\"1\" page=\"0\" pageScale=\"1\" pageWidth=\"850\" pageHeight=\"1100\" math=\"0\" shadow=\"0\">\n      <root>\n        <mxCell id=\"0\" />\n        <mxCell id=\"1\" parent=\"0\" />\n        <UserObject label=\"README.md\" value=\"README.md\" id=\"2L8amT2ULoo-SXAcoV6I-1\">\n          <mxCell style=\"shadow=0;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"200\" y=\"286\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"2L8amT2ULoo-SXAcoV6I-2\" value=\"sas\" style=\"whiteSpace=wrap;html=1;shadow=0;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"142\" y=\"195\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n      </root>\n    </mxGraphModel>\n  </diagram>\n</mxfile>\n",
-	"fileName": "ECE444-F2021-Lab6.CodeCanvas",
-	"fileURL": "https://raw.githubusercontent.com/Wasifz9/ECE444-F2021-Lab6/6f789326f5c11e15d073d065515378f24ec21a86/ECE444-F2021-Lab6.CodeCanvas",
-	"repoData": {},
-	"cellToPath": {
-		"2L8amT2ULoo-SXAcoV6I-1": "README.md"
-	}
-}
